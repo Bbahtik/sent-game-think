@@ -6,7 +6,15 @@ Forked css styling from Mark Erikson's Redux App
 
 In the project directory, you can run:
 
+To install all of the required packages, dependancies run:
+
+### `yarn install`
+
+
+Start the project after that, using:
+
 ### `yarn start`
+
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
