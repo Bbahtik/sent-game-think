@@ -1,5 +1,5 @@
 # Think-easy sentence game
-
+Forked css styling from Mark Erikson's Redux App 
 
 
 ## Available Scripts
